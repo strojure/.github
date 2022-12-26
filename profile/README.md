@@ -4,10 +4,11 @@ The collection of Clojure(Script) libraries.
 
 ## Web development
 
-| Library                                                    | Description                               |                                                                                               |
-|:-----------------------------------------------------------|:------------------------------------------|:----------------------------------------------------------------------------------------------|
-| [undertow](https://github.com/strojure/undertow)           | Undertow web server API `clj`             | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/undertow?style=social)      |
-| [ring-undertow](https://github.com/strojure/ring-undertow) | Ring adapter to Undertow web server `clj` | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/ring-undertow?style=social) |
+| Library                                                    | Description                                             |                                                                                               |
+|:-----------------------------------------------------------|:--------------------------------------------------------|:----------------------------------------------------------------------------------------------|
+| [undertow](https://github.com/strojure/undertow)           | Undertow web server API `clj`                           | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/undertow?style=social)      |
+| [ring-undertow](https://github.com/strojure/ring-undertow) | Ring adapter to Undertow web server `clj`               | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/ring-undertow?style=social) |
+| [ring-stack](https://github.com/strojure/ring-stack)       | More controllable composition of Ring middlewares `clj` | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/ring-stack?style=social)    |
 
 ## System management
 
