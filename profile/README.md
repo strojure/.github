@@ -40,8 +40,8 @@ The collection of Clojure(Script) libraries.
 
 | Library                                        | Description                                              |                                                                                         |
 |:-----------------------------------------------|:---------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| [vectops](https://github.com/strojure/vectops) | Basic operations with vectors `clj` `cljs`               | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/vectops?style=social) |
 | [zmap](https://github.com/strojure/zmap)       | Persistent map with lazily evaluated values `clj` `cljs` | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/zmap?style=social)    |
+| [vectops](https://github.com/strojure/vectops) | Basic operations with vectors `clj` `cljs`               | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/vectops?style=social) |
 
 ## Logging
 
