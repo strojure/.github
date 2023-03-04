@@ -25,9 +25,9 @@ The collection of Clojure(Script) libraries.
 
 ## Parsing
 
-| Library                                          | Description                     |                                                                                          |
-|:-------------------------------------------------|:--------------------------------|------------------------------------------------------------------------------------------|
-| [parsesso](https://github.com/strojure/parsesso) | Parser combinators `clj` `cljs` | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/parsesso?style=social) |
+| Library                                          | Description                          |                                                                                          |
+|:-------------------------------------------------|:-------------------------------------|------------------------------------------------------------------------------------------|
+| [parsesso](https://github.com/strojure/parsesso) | Parser combinators `clj` `cljs` `bb` | ![GitHub Repo stars](https://img.shields.io/github/stars/strojure/parsesso?style=social) |
 
 ## Caching
 
